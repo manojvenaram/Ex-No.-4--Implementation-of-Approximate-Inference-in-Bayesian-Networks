@@ -123,6 +123,8 @@ print(query_result)
 
 ## Output :
 ![](1.png)
+
+
 ![](2.png)
 
 ## Result : 
